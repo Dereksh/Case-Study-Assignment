@@ -54,11 +54,19 @@ Fundrise offers extremely specific investment services in the real estate domain
 ## Resources 
 
 https://fundrise.com/about
+
 https://en.wikipedia.org/wiki/Fundrise 
+
 https://www.sec.gov/spotlight/jobs-act.shtml
+
 https://www.finra.org/investors/alerts/crowdfunding-and-jobs-act#:~:text=The%20Jumpstart%20Our%20Business%20Startups,for%20inflation%20every%20five%20years.  
+
 https://www.reit.com/data-research/research/nareit-research/estimating-size-commercial-real-estate-market-us#:~:text=Estimating%20the%20Size%20of%20the%20Commercial%20Real%20Estate%20Market%20in%20the%20U.S.,-The%20total%20size&text=Nareit%20estimates%20that%20the%202018,from%20CoStar%20and%20other%20sources. 
+
 https://www.wsj.com/articles/crowdfunding-firms-blow-up-the-model-to-survive-in-real-estate-11578398401  
+
 https://investorjunkie.com/real-estate/is-reit-good-long-term-investment/ 
+
 https://www.marketwatch.com/investing/stock/ver 
+
 https://stackshare.io/fundrise/fundrise 
